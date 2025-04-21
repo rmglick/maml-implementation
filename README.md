@@ -32,5 +32,7 @@ The implementation covers:
    git clone https://github.com/yourusername/maml-implementation.git
    cd maml-implementation
 
-References: 
+## References 
 Fin et al. 2017. "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
+https://interactive-maml.github.io/
+
