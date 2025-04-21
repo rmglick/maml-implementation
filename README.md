@@ -1,4 +1,3 @@
-# maml-implementation
 # MAML Implementation
 
 This project implements **Model-Agnostic Meta-Learning (MAML)**, a meta-learning algorithm that enables models to adapt quickly to new tasks using only a few training examples.
@@ -35,4 +34,3 @@ The implementation covers:
 
 References: 
 Fin et al. 2017. "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
-# MAML Implementation
